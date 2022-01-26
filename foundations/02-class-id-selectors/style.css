@@ -1,0 +1,13 @@
+.odd {
+    background-color: #df9fbf;
+    font-family: "verdana", "DejaVu Sans", "Sans-Serif"
+}
+#first-id{
+    color: #1aa3ff;
+    font-size: 36px;
+}
+#second-id{
+    background-color: #9fff80;
+    font-size: 24px;
+    font-weight: bold;
+}
